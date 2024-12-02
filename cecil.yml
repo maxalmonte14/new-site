@@ -1,7 +1,6 @@
 author:
   name: 'Max Almonte'
   url: 'https://github.com/maxalmonte14/'
-  fediverse: '@maxalmonte14@indiehackers.social'
 baseline: "It's a blog, don't overthink it."
 baseurl: 'https://maxalmonte.surge.sh/'
 date:
@@ -12,4 +11,8 @@ image: nowhere-card.webp
 pagination:
   max: 10
   path: page
+social:
+  fediverse:
+    link: 'https://indiehackers.social/@maxalmonte14'
+    username: '@maxalmonte14@indiehackers.social'
 title: Nowhere
