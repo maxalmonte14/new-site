@@ -108,19 +108,22 @@
   'site': '',
   'creator': '',
 } %}
-{# fediverse #}
-{% set fediverse = {
-  'link': '',
-  'username': '',
-} %}
-{% if page.social.fediverse is defined or site.social.fediverse is defined %}
-  {%- set fediverse = fediverse|merge(page.social.fediverse|default(site.social.fediverse)) %}
-{% endif %}
 {% if page.social.twitter is defined or site.social.twitter is defined %}
   {%- if page.social.twitter|default(site.social.twitter) is not iterable %}
     {%- set twitter = twitter|merge({'site': page.social.twitter|default(site.social.twitter)}) %}
   {%- else %}
     {%- set twitter = twitter|merge(page.social.twitter|default(site.social.twitter)) %}
+  {%- endif %}
+{% endif %}
+{# Mastodon #}
+{% set mastodon = {
+  'creator': '',
+} %}
+{% if page.social.mastodon is defined or site.social.mastodon is defined %}
+  {%- if page.social.mastodon|default(site.social.mastodon) is not iterable %}
+    {%- set mastodon = mastodon|merge({'creator': page.social.mastodon|default(site.social.mastodon)}) %}
+  {%- else %}
+    {%- set mastodon = mastodon|merge(page.social.mastodon|default(site.social.mastodon)) %}
   {%- endif %}
 {% endif %}
 {%- block content %}
@@ -234,11 +237,9 @@
 {%- if twitter.creator ~%}
     <meta name="twitter:creator" content="@{{ twitter.creator }}" />
 {%- endif ~%}
-{%- if fediverse.username ~%}
-    <meta name="fediverse:creator" content="{{ fediverse.username }}" />
-{%- endif ~%}
-{%- if fediverse.link ~%}
-    <link rel="me" href="{{ fediverse.link }}"/>
+{#- template: Mastodon ~#}
+{%- if mastodon.creator ~%}
+    <meta name="fediverse:creator" content="{{ mastodon.creator }}">
 {%- endif ~%}
 {#- template: json-ld ~#}
 {%- include 'partials/jsonld.js.twig' with {'author': author, 'favicon_asset': favicon_asset|default} ~%}

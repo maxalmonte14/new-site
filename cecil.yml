@@ -12,7 +12,7 @@ pagination:
   max: 10
   path: page
 social:
-  fediverse:
-    link: 'https://indiehackers.social/@maxalmonte14'
-    username: '@maxalmonte14@indiehackers.social'
+  mastodon:
+    url: 'https://indiehackers.social/@maxalmonte14'
+    creator: '@maxalmonte14@indiehackers.social'
 title: Nowhere
