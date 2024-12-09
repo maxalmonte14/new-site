@@ -2,7 +2,7 @@ author:
   name: 'Max Almonte'
   url: 'https://github.com/maxalmonte14/'
 baseline: "It's a blog, don't overthink it."
-baseurl: 'https://maxalmonte.surge.sh/'
+baseurl: 'https://maxalmonte14.surge.sh/'
 date:
   format: 'Y-m-d'
   timezone: 'America/Santo_Domingo'
@@ -13,6 +13,6 @@ pagination:
   path: page
 social:
   mastodon:
-    url: 'https://indiehackers.social/@maxalmonte14'
     creator: '@maxalmonte14@indiehackers.social'
+    url: 'https://indiehackers.social/@maxalmonte14'
 title: Nowhere
