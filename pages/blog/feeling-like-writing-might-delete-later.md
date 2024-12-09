@@ -1,7 +1,8 @@
 ---
-title: "Feeling Like Writing, Might Delete Later"
 date: 2024-11-30
 published: true
+tags: ['opinion', 'social media']
+title: "Feeling Like Writing, Might Delete Later"
 ---
 
 I'm an introvert by nature, does that mean that I'm shy, reserved, and quiet? No, it doesn't. I mean, I'm all those things, but not because of my introversion! I see introversion as a way to appreciate not only the things — and the people — around me, but also the living manifestation of my inner self: my thoughts.
