@@ -9,7 +9,7 @@ tags: [
     'pokémon',
     'video games',
     ]
-title: "Let's Talk About Stupid video games: Cassette Beasts"
+title: "Let's Talk About Stupid Video Games: Cassette Beasts"
 ---
 
 When I made this site I wanted it to be an extension of my online persona, I wanted to be able to say whatever I would say in social media, but in more detail. I didn't want it to become a "technical blog", or a "movie reviews blog", or a "video games blog", I really just wanted to write whatever I feel like it, and that ideal has brought me to today's topic: stupid video games.
