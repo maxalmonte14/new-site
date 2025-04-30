@@ -40,9 +40,9 @@ If you have played a JRPG before — any JRPG — you are probably familiar with
 
 Passive moves on the other hand can be compared to "abilities" in Pokémon, these could be an extra attack at no cost or some kind of status effect at the beginning of the battle or under certain conditions, but unlike Pokémon, a beast could have as many passive moves as it's compatible with, in fact you can have a beast with only passive moves if you wanted! How cool is that!?
 
-And now that we touched on moves, well, let's talk about moves! In Cassette Beasts you don't actually have moves, you have _"stickers"_, these _stickers_ you put on your cassette tapes — each cassette tape represents a beast — and your beast will learn the ability to use the move described in the _sticker_, the best part? Stickers are replaceable! Don't want a move anymore? Just _peel_ the sticker from your cassette and that's it, the _sticker_ will be added to your inventory for you to reuse whenever you feel like it, just like that! This mechanic allows you to customize your cassette _stickers_ as much as you want and/or need, you could get a set of _stickers_ for a fight and then a completely different set for the next fight, again, HOW COOL IS THAT!!?
+And now that we touched on moves, well, let's talk about moves! In Cassette Beasts you don't actually have moves, you have _"stickers"_, these _stickers_ you put on your cassette tapes — each cassette tape represents a beast — and your beast will learn the ability to use the move described in the _sticker_, the best part? _Stickers_ are replaceable! Don't want a move anymore? Just _peel_ the _sticker_ from your cassette and that's it, the _sticker_ will be added to your inventory for you to reuse whenever you feel like it, just like that! This mechanic allows you to customize your cassette _stickers_ as much as you want and/or need, you could get a set of _stickers_ for a fight and then a completely different set for the next fight, again, HOW COOL IS THAT!!?
 
-And on top of everything I just said about _stickers_, did you know there are _typeless_ stickers? That means you can put those on **any** beast you want to, no matter its type, the _sticker_ will be compatible! And what's more, it will assume the type of your monster! A typeless _sticker_ like _smack_ or _spit_ could be type poison if put it on a poison beast, or fire if put it on a fire beast, or... Well, you get the idea.
+And on top of everything I just said about _stickers_, did you know there are _typeless_ _stickers_? That means you can put those on **any** beast you want to, no matter its type, the _sticker_ will be compatible! And what's more, it will assume the type of your monster! A typeless _sticker_ like _smack_ or _spit_ could be type poison if put it on a poison beast, or fire if put it on a fire beast, or... Well, you get the idea.
 
 But I don't intend for this post to be a review of the game mechanics, that's lame! Let's review what I liked, didn't like, and what I'd like to see more of.
 
@@ -54,7 +54,7 @@ In Cassette Beasts you don't have to embark on a journey alone, in fact, you can
 
 ### Inclusivity
 
-When you start the game they ask you for your character name and their _**pronouns**_ — yes, I said the _"P-word"_, if that makes you uncomfortable I invite you to get the hell outta my blog and go fuck yourself — the developers don't seem too concerned about the genitalia you were born with, they just want to know how your character should be called and how to address it properly.
+When you start the game they ask you for your character name and their _**pronouns**_ — yes, I said the _"P-word"_, if that makes you uncomfortable I invite you to get the hell outta my blog and go fuck yourself — the developers don't seem too concerned with the genitalia you were born with, they just want to know how your character should be called and how to address it properly.
 
 After seeing that I immediately thought _"Cool, this is one of those games that make grown-ass men and women cry on the internet, let's play it!"_, and boy, I did have an awesome time playing it!
 
@@ -64,7 +64,7 @@ The thing is I've grown, I've met all kinds of beautiful people, in the stand-up
 
 ### It wants you to win
 
-The game rarely feels unfair, they don't want you to grind or complete impossible missions just so you can prove you're the guy — or gal! No, they would have NPCs point you in the right direction, and give you valuable advice instead of babbling some useless piece of generic dialogue, every action in this game is rewarded, you talk to an NPC? He gives you valuable info or even a side quest, you battle wild beasts? They give you materials you can trade for _stickers_ or other items, you explore the world out of sheer curiosity? You get valuable loot, it's as simple as that.
+The game rarely feels unfair, they don't want you to grind or complete impossible missions just so you can prove you're the guy — or gal! No, they would have NPCs point you in the right direction, and give you valuable advice instead of babbling some useless piece of generic dialogue, every action in this game is rewarded, you talk to an NPC? They give you valuable info or even a side quest. You battle wild beasts? They give you materials you can trade for _stickers_ or other items. You explore the world out of sheer curiosity? You get valuable loot. It's as simple as that.
 
 ### Music
 
@@ -80,7 +80,7 @@ One of those original ideas is fusing with your beasts like in Digimon Frontier,
 
 ### Characters' stories
 
-Some of the the characters' stories didn't resonate with me, concretely Felix's and Viola's. I mean, one of Felix's drawings comes to life as a beast, why? Why not _ALL_ of his drawings? I don't see how it makes sense, it honestly was a little weird, but it's not the end of the world. Viola on the other hand is a character from a Shakespeare book? Why? Why aren't all Shakespeare characters in this world then? I don't get it, and not having studied classic English literature makes it even more confusing, so I can't say that I enjoyed their stories too much.
+Some of the characters' stories didn't resonate with me, concretely Felix's and Viola's. I mean, one of Felix's drawings comes to life as a beast, why? Why not _ALL_ of his drawings? I don't see how it makes sense, it honestly was a little weird, but it's not the end of the world. Viola on the other hand is a character from a Shakespeare's book? Why? Why aren't all Shakespeare's characters in this world then? I don't get it, and not having studied classic English literature makes it even more confusing, so I can't say that I enjoyed their stories too much.
 
 ### Pointless decision prompts
 
