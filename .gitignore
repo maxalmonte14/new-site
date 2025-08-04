@@ -1,4 +1,7 @@
 _site/*
+_preview/*
 .cache/*
 .cecil/*
+.vscode/*
 cecil.phar
+cecil.phar:Zone.Identifier
