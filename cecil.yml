@@ -8,9 +8,10 @@ date:
   timezone: 'America/Santo_Domingo'
 description: "Another corner of the good ol' internet, another guy with opinions, another collection of 3AM thoughts dumped into HTML pages as if it were a good replacement for pen and paper."
 image: nowhere-card.webp
-pagination:
-  max: 10
-  path: page
+pages:
+  pagination:
+    max: 10
+    path: page
 social:
   mastodon:
     creator: '@maxalmonte14@indiehackers.social'
