@@ -1,0 +1,15 @@
+---
+date: 2025-08-05
+excluded: true
+layout: 'story'
+tags: ['writing', 'story', 'storytelling']
+title: 'Untitled Story Number 2'
+---
+
+“Excuse me, miss, are you my mom?”, said the little kid as he repeatedly pulled the woman’s skirt, “Oh, I’m sorry sweetie, what did you say?” gently responded the young woman while looking down, “Are you my mom?”, asked the kid again, “Oh, no sweetie, I am not your mom, are you lost?”, said the young woman, now crouching to look the kid in the eyes. But after hearing this the kid said nothing, as if he was incapable of understanding the question, “what is your name sweetie?” continued the young lady, “uh, my name is Gary.” hesitantly said the kid while gazing at the young woman, “Gary? Who names their kid Gary these days?” thought to herself the young woman, “well, nice to meet you Gary. What do you say we look for your mom, Gary, is that OK?”, “OK!” enthusiastically said the kid while letting a big smile escape. The young woman grabbed the kid's hand and started walking.
+
+“OK, Gary, where did you see your mom for the last time?” asked the young woman, but Gary said nothing in return, “he’s a kid after all, I don’t think he fully understands the situation here” thought the young woman to herself, “Do you like this mall, Gary?” continued the young woman, “Yes! I like it a lot!” emphatically said the kid, “That’s great! Now, what did you do today? Before running into me.” Said the young woman, now changing her strategy, “mmmmm...” The kid paused for a second as if trying to collect his thoughts, “I watched Paw Patrol,” he finally said, “Not very useful information,” thought the young woman, before asking, “Do you like Paw Patrol?”, “Yes! I love it! I watch Paw Patrol every day while eating breakfast. My favorite is cereal, I love cereal, especially Froot Loops. Do you like Froot Loops, miss?” his eyes lit up while saying this. “I do like Froot Loops, they’re my favorite!” said the young woman, even though she did not, in fact, like cereal. “And what did you do then, Gary?” she continued. “We came to the mall, and sat by the fountain, and ate ice cream, I love ice cream, specially vanilla, everybody says vanilla is boring, but vanilla is the best flavor ever!” said the kid, as if all the sugar he had consumed that day started kicking at that precise moment, “Let’s search by the fountain then” said the young woman, hoping to find the kid’s mother glued to the fountain, waiting for her kid to return.
+
+As they slowly walked hand in hand through the somewhat crowded mall in a Saturday morning, her soft hand firmly but gently grabbing his, the young woman, lost in her thoughts could only think of finding Gary’s mother, “um, miss, excuse me, miss?” said the kid trying to get the young woman’s attention, “Yes? Oh, I’m sorry, what is it sweetie?” responded her, snapping out of her trance, “I think that’s the fountain over here”, said the kid while pointing out, “we made it”, thought the young woman, “well, let’s see if your mom is waiting for you there, right?” said she while crouching to look Gary in the eyes. But no one was waiting for Gary there.
+
+<p style="text-align:right">THE END.</p>

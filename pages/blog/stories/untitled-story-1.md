@@ -1,6 +1,7 @@
 ---
 date: 2025-08-04
 excluded: true
+layout: 'story'
 tags: ['writing', 'story', 'storytelling']
 title: 'Untitled Story Number 1'
 ---
