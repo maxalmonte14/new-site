@@ -10,14 +10,14 @@ It was the first time Sheila had to work overtime in years; she had no say on it
 
 Sheila took her phone out of her purse and called Johnny, her eight-year-old son:
 
-“Hello. Mom?” Said Johnny.
-“Hi, baby. How are you?”
-“I’m hungry. Where are you?”
-“Oh, baby, I’m so sorry. I had to stay late at work. Is the babysitter still there?”
-“She left a while ago. I’m watching cartoons.”
-“Just wait a little longer, baby. I’ll be there right away.”
-“OK, Mom. Hurry up.”
-“Love you, baby. Bye-bye.”
+“Hello. Mom?” Said Johnny.  
+“Hi, baby. How are you?”  
+“I’m hungry. Where are you?”  
+“Oh, baby, I’m so sorry. I had to stay late at work. Is the babysitter still there?”  
+“She left a while ago. I’m watching cartoons.”  
+“Just wait a little longer, baby. I’ll be there right away.”  
+“OK, Mom. Hurry up.”  
+“Love you, baby. Bye-bye.”  
 
 Sheila hung up the phone. It was late, dark, and her eight year-old son was home alone. She had to get home right away.
 
@@ -27,17 +27,17 @@ Sheila walked down the dark avenue until she reached the bus stop. The cold bree
 
 While waiting, Sheila called Marie, little Johnny’s babysitter.
 
-“Hello?” Said Marie.
-“Hi, Marie. It’s me, Sheila.”
-“Oh, hi, Mrs. Smith. Is everything OK?”
-“Yes, don’t worry. I’m on my way home now. I had to work until late today.”
-“Oh, I see.”
-“I was wondering if you could go back to my house and take care of Johnny until I get there.”
-“I’d love to do that, Mrs. Smith, but I have to study for my finals.”
-“Yeah, I get it. Don’t worry about it.”
-“I made Johnny a pot of macaroni and cheese before leaving. He’s watching cartoons. He’s OK.”
-“Yes, I know. Thanks for your hard work, Marie.”
-“Don’t worry, Mrs. Smith. Feel free to call me if you need anything else.”
+“Hello?” Said Marie.  
+“Hi, Marie. It’s me, Sheila.”  
+“Oh, hi, Mrs. Smith. Is everything OK?”  
+“Yes, don’t worry. I’m on my way home now. I had to work until late today.”  
+“Oh, I see.”  
+“I was wondering if you could go back to my house and take care of Johnny until I get there.”  
+“I’d love to do that, Mrs. Smith, but I have to study for my finals.”  
+“Yeah, I get it. Don’t worry about it.”  
+“I made Johnny a pot of macaroni and cheese before leaving. He’s watching cartoons. He’s OK.”  
+“Yes, I know. Thanks for your hard work, Marie.”  
+“Don’t worry, Mrs. Smith. Feel free to call me if you need anything else.”  
 
 Marie hung up the phone.
 
@@ -47,28 +47,28 @@ Sheila started to nervously tap her foot. Her mind would run wild unless she sta
 
 Ten minutes passed, and the bus was nowhere to be seen. Sheila's worries grew bigger and bigger. What is my baby doing now?  — She thought — Is he cold? Is he scared? Is he lonely? Her thoughts started to overwhelm her. She took his phone and dialed a number she didn’t have among her contacts, but still knew by heart.
 
-“Hello.” Said a man.
-“It’s me.” Said Sheila.
-“Sheila?”
+“Hello.” Said a man.  
+“It’s me.” Said Sheila.  
+“Sheila?”  
 
 She didn’t answer.
 
-“Why are you calling me?” Said the man.
-“It’s Johnny.”
-“What happened to him?”
-“Nothing happened to him. He’s home alone. Could you please go home and check on him?”
-“Now you want me to go home.”
+“Why are you calling me?” Said the man.  
+“It’s Johnny.”  
+“What happened to him?”  
+“Nothing happened to him. He’s home alone. Could you please go home and check on him?”  
+“Now you want me to go home.”  
 
 He paused for an answer, but Sheila didn’t give him one.
 
-“Why is he home alone?”
-“I’m on my way home now.”
-“It’s almost 9:00 PM. Why aren’t you home?”
-“I had to work overtime today.”
-“How convenient.”
-“And what’s that supposed to mean?”
-“Whatever you want it to.”
-“Look, I don’t have to explain myself to the likes of you; this is not about me. I’m asking you to go check on Johnny. Now, will you do it or not?”
+“Why is he home alone?”  
+“I’m on my way home now.”  
+“It’s almost 9:00 PM. Why aren’t you home?”  
+“I had to work overtime today.”  
+“How convenient.”  
+“And what’s that supposed to mean?”  
+“Whatever you want it to.”  
+“Look, I don’t have to explain myself to the likes of you; this is not about me. I’m asking you to go check on Johnny. Now, will you do it or not?”  
 
 The man hung up.
 
@@ -78,7 +78,7 @@ Sheila crumpled to the ground and started crying. How dare he say those things t
 
 Sheila took a deep breath and stood up, politely declining the man’s offer to help her.
 
-“Thank you,” she said, “It’s my ankle, I twisted it some time ago, and sometimes it hurts.”
+“Thank you,” she said, “It’s my ankle, I twisted it some time ago, and sometimes it hurts.”  
 “Oh, I see.” Said the man.
 
 He took a good look at Sheila and added.

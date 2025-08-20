@@ -50,12 +50,12 @@ He walked to the front door. The wood floor under his feet squeaked with each st
 
 Howard removed the gag from her mouth.
 
-“I… I forgive you…” Jennifer said.
-“Oh, my cutie-pie, aren’t you the sweetest? I don’t deserve your love.”
-“Now, please. Please, let me go.”
-“We talked about this, Jennifer. This is our house.”
-“I don’t know who Jennifer is, sir. My name is Amanda Jones. Just please—”
-“How dare you!?” Howard said.
+“I… I forgive you…” Jennifer said.  
+“Oh, my cutie-pie, aren’t you the sweetest? I don’t deserve your love.”  
+“Now, please. Please, let me go.”  
+“We talked about this, Jennifer. This is our house.”  
+“I don’t know who Jennifer is, sir. My name is Amanda Jones. Just please—”  
+“How dare you!?” Howard said.  
 
 He started walking from one side of the room to the other, then he approached Amanda and started brandishing his finger.
 

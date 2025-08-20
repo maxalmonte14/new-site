@@ -12,28 +12,28 @@ Charlie took off his shoes and sat for a minute. After a flight of eleven hours,
 
 It wasn’t until 6:54 that Charlie called the police.
 
-“Police department, how can I help you?” A woman said.
-“I want to report a robbery.”
-“Very well, sir. Who am I speaking to?”
-“My name’s Charles Noe.”
-“Very well, mister Noe. What’s your address?”
-“That’d be 552 Carolyns Circle, APT 061.”
-“Did this robbery happen in your residence, Mr. Noe?”
-“That is correct.”
-“Understood. Please describe the stolen items, Mr. Noe.”
-“They stole my toilet.”
+“Police department, how can I help you?” A woman said.  
+“I want to report a robbery.”  
+“Very well, sir. Who am I speaking to?”  
+“My name’s Charles Noe.”  
+“Very well, mister Noe. What’s your address?”  
+“That’d be 552 Carolyns Circle, APT 061.”  
+“Did this robbery happen in your residence, Mr. Noe?”  
+“That is correct.”  
+“Understood. Please describe the stolen items, Mr. Noe.”  
+“They stole my toilet.”  
 
 There was a moment of silence. Maybe the reception wasn’t good — Charlie thought.
 
-“Are you still with me?” Charlie asked.
-“Yes, mister Noe. I’m still here. Could you please describe the stolen items?”
-“I told you. They stole my toilet.”
-“Mr. Noe, I want to inform you that the misuse of the police line is considered a crime. Do you understand that?”
-“Yes, lady, I do understand that. Now you understand this. I went to take a leak after not being home for a couple of days, and I found out my toilet was gone. Now, are you gonna help me with that?”
+“Are you still with me?” Charlie asked.  
+“Yes, mister Noe. I’m still here. Could you please describe the stolen items?”  
+“I told you. They stole my toilet.”  
+“Mr. Noe, I want to inform you that the misuse of the police line is considered a crime. Do you understand that?”  
+“Yes, lady, I do understand that. Now you understand this. I went to take a leak after not being home for a couple of days, and I found out my toilet was gone. Now, are you gonna help me with that?”  
 
 No words came from the receiver. Maybe I got a little carried away this time — Charlie thought.
 
-“Very well, mister Noe. A report has been filed. We’ll send someone to check the situation as soon as possible.”
+“Very well, mister Noe. A report has been filed. We’ll send someone to check the situation as soon as possible.”  
 “Thank you.”
 
 Charlie sat down and took a deep breath. Who stills a toilet? — He thought. All the stuff worth stealing in this house, and this psychopath decides to steal my toilet. That’s some sick behavior right there.
@@ -54,30 +54,30 @@ He walked to the living room and sat down. A bottle of Scotch in one hand, a gla
 
 A knock on the door. Charlie left the whiskey on the coffee table and went to open it.
 
-“Are you the toilet man?” The unknown man said.
-“Excuse me?” Replied Charlie.
-“Sir, are you Charles Noe, the man who reported a stolen toilet?”
-“Yes. I am.”
-“My name is Mike Williamson, from the police department. May I come in?”
-“Of course.”
+“Are you the toilet man?” The unknown man said.  
+“Excuse me?” Replied Charlie.  
+“Sir, are you Charles Noe, the man who reported a stolen toilet?”  
+“Yes. I am.”  
+“My name is Mike Williamson, from the police department. May I come in?”  
+“Of course.”  
 
 Mike noticed the coffee table and the whiskey that rested on it.
 
-“Started early today, mister Noe,” Mike said.
-“Not exactly. The toilet robber opened this bottle before I could.”
-“He did, huh? Did he leave the glass with ice cubes there, too?”
-“Excuse me?”
-“I’m just saying, this toilet robber is starting to sound convenient.”
-“Convenient? What is that supposed to mean?”
-“I’m just saying. This burglar comes here, steals toilets, drinks whiskey. It’s starting to sound more and more absurd by the minute.”
-“Oh yeah? Well, let me tell you something. I don’t like it any better than you do. I leave home for a couple of days, and when I come back, I discover I have to shit on the floor now. So excuse me if it doesn’t sound believable.”
+“Started early today, mister Noe,” Mike said.  
+“Not exactly. The toilet robber opened this bottle before I could.”  
+“He did, huh? Did he leave the glass with ice cubes there, too?”  
+“Excuse me?”  
+“I’m just saying, this toilet robber is starting to sound convenient.”  
+“Convenient? What is that supposed to mean?”  
+“I’m just saying. This burglar comes here, steals toilets, drinks whiskey. It’s starting to sound more and more absurd by the minute.”  
+“Oh yeah? Well, let me tell you something. I don’t like it any better than you do. I leave home for a couple of days, and when I come back, I discover I have to shit on the floor now. So excuse me if it doesn’t sound believable.”  
 
 Mike walked up to Charlie and looked him in the eyes. Very well — He said. Show me where this toilet was supposed to be.
 
 Charlie made his way to the bathroom, accompanied by Mike. When they opened the door to the bathroom, things got even more absurd. The toilet was there. Perfectly installed as Charlie remembered it.
 
-“But… It wasn’t here. Just a couple of hours ago. It wasn’t here.” Charlie said.
-“Mister Noe, you’ll have to accompany me to the police station.”
-“But. I wasn’t here…”
+“But… It wasn’t here. Just a couple of hours ago. It wasn’t here.” Charlie said.  
+“Mister Noe, you’ll have to accompany me to the police station.”  
+“But. I wasn’t here…”  
 
 <p style="text-align:right">THE END.</p>

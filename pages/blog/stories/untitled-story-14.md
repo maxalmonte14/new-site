@@ -18,14 +18,14 @@ Except he has a secret. He’s been consumed by guilt all these years, and he ca
 
 And so it arrives, the happiest day of my life — Christine thought. She extends her hand to grab his cellphone and stops the alarm. It’s 7:30 in the morning, and there’s much to do before the late afternoon ceremony. Christine walks to the window and looks outside. The sun is shining strongly, and the summer breeze feels good on the skin. One couldn’t ask for more, she says to herself. A door knock interrupts her quiet time. “Are you awake?” The one knocking said. “Yes, come in, Mom,” Christine replied.
 
-“How did you sleep, honey?”
-“I slept very well, Mom.”
-“Good. Now, we have to start moving, there’s plenty to do if we want everything to be— ”
-“Mom, mom, mom. We talked about this. It’s my wedding, and I have everything under control. All I need you to do is be there.”
-“You cannot tell me to stay out, you’re my little girl.”
-“From today on, your little girl will be a married woman, Mom. Nathan and I will need our space, you know that.”
-“But, you are my baby.”
-“And my own woman too, OK? Now you go relax and I’ll take a shower.”
+“How did you sleep, honey?”  
+“I slept very well, Mom.”  
+“Good. Now, we have to start moving, there’s plenty to do if we want everything to be— ”  
+“Mom, mom, mom. We talked about this. It’s my wedding, and I have everything under control. All I need you to do is be there.”  
+“You cannot tell me to stay out, you’re my little girl.”  
+“From today on, your little girl will be a married woman, Mom. Nathan and I will need our space, you know that.”  
+“But, you are my baby.”  
+“And my own woman too, OK? Now you go relax and I’ll take a shower.”  
 
 Christine relationship with her mother was complicated. She was an independent woman who excelled at everything she did. Her mother on the other hand was having trouble understanding that. She still saw it as a little girl who ran to her mother when scared. Whatever the case, Christine knew she had to put a stop to her mother’s meddling before she started controlling every aspect of her marriage.
 
@@ -39,39 +39,39 @@ Another knock on her door. “May I come in?” It was her father this time. “
 
 Unlike her mother, Christine’s father was a sensible man. He knew her daughter could take care of herself and rarely meddle in her affairs. He trusted her.
 
-“I’m fine, Dad. Don’t worry. I’m ready for this.” Christine replied.
-“Oh, I know you are. You always make the right decision.”
-“I try, Dad.”
-“How is he?”
-“I haven’t spoken with him today.”
-“Maybe he’s still sleeping. He’s marrying you; if I were him, I’d be sleeping too.”
-“Dad!”
-“I kid, I kid.”
+“I’m fine, Dad. Don’t worry. I’m ready for this.” Christine replied.  
+“Oh, I know you are. You always make the right decision.”  
+“I try, Dad.”  
+“How is he?”  
+“I haven’t spoken with him today.”  
+“Maybe he’s still sleeping. He’s marrying you; if I were him, I’d be sleeping too.”  
+“Dad!”  
+“I kid, I kid.”  
 
 He paused for a moment and took a good look at Christine.
 
-“After today, you’ll be a married woman. I’m proud of you.”
-“Thanks, Dad, it means the world to me to have you in my corner.”
-“And you always will. Now, let’s head downstairs and have breakfast, shall we?”
-“Alright.”
+“After today, you’ll be a married woman. I’m proud of you.”  
+“Thanks, Dad, it means the world to me to have you in my corner.”  
+“And you always will. Now, let’s head downstairs and have breakfast, shall we?”  
+“Alright.”  
 
 Christine and her parents sat in the kitchen table and ate breakfast together. It could be the last time I get to do this — Christine thought — so I might as well make it a good memory.
 
 Christine’s cellphone started ringing, it was Nathan calling her. She stood up from the table and took the call.
 
-“Hi, husband,” Christine said.
+“Hi, husband,” Christine said.  
 “I need to talk to you. Got a minute?”
 
 His tone, even for his quiet, mysterious persona, sounded serious.
 
-“Sure, babe. What’s up?” Christine said.
-“I’ve been wanting to tell you this since we started dating, but it got more and more complicated, and well, now we’re getting married.”
-“OK…”
-“You see, the thing is, I didn’t know how you would take it, and what you would do if you knew, and—”
-“Babe, babe. It’s OK. You can tell me anything, I’ll be your wife. Whatever it is, I’ll understand.”
-“OK. You see. The thing is…”
-“Yes?”
-“I actually have a kid.”
+“Sure, babe. What’s up?” Christine said.  
+“I’ve been wanting to tell you this since we started dating, but it got more and more complicated, and well, now we’re getting married.”  
+“OK…”  
+“You see, the thing is, I didn’t know how you would take it, and what you would do if you knew, and—”  
+“Babe, babe. It’s OK. You can tell me anything, I’ll be your wife. Whatever it is, I’ll understand.”  
+“OK. You see. The thing is…”  
+“Yes?”  
+“I actually have a kid.”  
 
 Christine stood there, silent, refusing to believe the words that came out of her fiancé's mouth.
 
@@ -79,7 +79,7 @@ Christine stood there, silent, refusing to believe the words that came out of he
 
 Christine hung up the phone.
 
-“What did he say?” Christine’s mother asked.
+“What did he say?” Christine’s mother asked.  
 “The wedding is off.”
 
 <p style="text-align:right">THE END.</p>
