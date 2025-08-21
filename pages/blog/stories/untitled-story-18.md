@@ -12,6 +12,7 @@ Chaos reigned over the town. People ran all over the place, kids were taken insi
 
 A crowd started to form outside the TV station. Women knelt in front of the main gate and prayed; another group chanted “free the people,” led by a young man with a megaphone. The TV station security tried to disperse the crowd to no avail; the crowd was getting bigger, and the uproar was getting louder.
 
+---
 
 In the police station, the telephone kept ringing; people kept reporting crimes from arson to theft and vandalism, not to mention the incessant inquiries about the terrorist case. It was overwhelming. The police were unequipped to deal with this high number of crimes, let alone a terrorist threat.
 
@@ -27,6 +28,7 @@ The chief let out a sigh and said, “Very well. Someone take their missing repo
 
 The women bowed at his feet in gratitude; some of them cried; the men left.
 
+---
 
 At the local newspaper building, a fax arrived. The eyes of the man who received it got as big as plates. He takes it and runs while waving it in the air. “Boss. Boss. It’s a fax from the TV station.” He said, while bursting into the editor’s office.
 
@@ -44,6 +46,7 @@ The editor took the fax and read it. He then turned to the man who brought the p
 “Yes, sir. Sorry, sir.”  
 “If these are their demands… Then god help us all.”  
 
+---
 
 The crowd in front of the electronics store had not yet dissipated. People came and went, attracted by Lorenzo López’s handsome face showing across multiple televisions. They have been covering the situation live since the terrorists took over the local TV station, but nothing significant has been reported after the first broadcast until now.
 
@@ -53,10 +56,11 @@ The crowd in front of the electronics store had not yet dissipated. People came 
 
 Chaos ensued. “They gonna massacre the audience on live TV.” One man said. People ran, stampeding the streets. Fear took hold of the city. It was 3:45 PM. The countdown had begun.
 
+---
 
 Outside the TV station, the news started to reach the crowd. Some people had watched the broadcast on TV and ran to inform the protesters, while others had heard it on the radio. The crowd started to turn hostile. Chants quickly went from “free the people” to “kill the fucking terrorists.” The police arrived at the scene.
 
-Officers set up a perimeter and shoved people away. Animosity grew. A new enemy had entered the picture. The chief of police arrived, accompanied by the middle-aged. They walked to the front door. The chief of police looked at the security guard and said, “Let me in.” The security guard stuttered, “Sir, I can’t do that. We have a —”, the chief didn’t let him finish. “Listen, you either let me in or I throw this gate down and hand you to the crowd.” The man opened the door. “And she is coming with me.” The chief said.
+Officers set up a perimeter and shoved people away. Animosity grew. A new enemy had entered the picture. The chief of police arrived, accompanied by the middle-aged woman. They walked to the front door. The chief of police looked at the security guard and said, “Let me in.” The security guard stuttered, “Sir, I can’t do that. We have a —”, the chief didn’t let him finish. “Listen, you either let me in or I throw this gate down and hand you to the crowd.” The man opened the door. “And she is coming with me.” The chief said.
 
 The chief knew where the terrorists were. He took out his gun and approached the studio. He peeked behind the wall. The live audience, composed mostly of employees of the station, was serene; some of them were even laughing. The chief barged in to the room, arm in hand, “Police, throw your weapon!” The audience screamed. Some put their hands over their heads and crouched. One of the terrorists pointed his AK-47 at the chief. “No!” someone shouted. The middle-aged woman walked up to the terrorist and smacked him in the back of the head with her open palm.
 
