@@ -82,6 +82,4 @@ The detective stood up and left the room. He walked to the water cooler and said
 
 In front of the water cooler, the station’s printer kept printing “Die. Die. Die…”
 
-THE END.
-
 <p style="text-align:right">THE END.</p>
