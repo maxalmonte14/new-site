@@ -3,7 +3,7 @@ date: 2025-09-08
 excluded: true
 layout: 'story'
 tags: ['writing', 'story', 'storytelling']
-title: 'Untitled Story Number 38'
+title: 'Untitled Story Number 36'
 ---
 
 Pedro asked his newborn son how he wanted to be called, “I want to be called Pluto.” His son answered. Pedro asked his wife, Teresa, to write it down for him; she watched the conversation on a screen. Pedro asked if Pluto wanted his name spelled in a special way or if P-L-U-T-O was OK. Pluto consented, the usual spelling will do just fine. What about a second name? Pluto didn’t want any. “I’m pleased to finally meet—” The conversation ended. The screen had gone black; his wife couldn’t see anymore. Pedro took off his helmet, and a nurse helped him remove the electrodes in his chest, neck, and arms.
