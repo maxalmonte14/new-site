@@ -1,5 +1,5 @@
 ---
-date: 2025-09-177
+date: 2025-09-17
 excluded: true
 layout: 'story'
 tags: ['writing', 'story', 'storytelling']
