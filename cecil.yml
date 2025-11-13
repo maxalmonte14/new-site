@@ -2,7 +2,7 @@ author:
   name: 'Max Almonte'
   url: 'https://github.com/maxalmonte14/'
 baseline: "It's a blog, don't overthink it."
-baseurl: 'https://maxalmonte14.surge.sh/'
+baseurl: 'https://maxalmonte.com/'
 date:
   format: 'Y-m-d'
   timezone: 'America/Santo_Domingo'
